@@ -1,6 +1,8 @@
 mmd_tools
 ===========
 
+[![Join the chat at https://gitter.im/lordscales91/blender_mmd_tools](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/lordscales91/blender_mmd_tools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 概要
 ----
 mmd_toolsはblender用MMD(MikuMikuDance)モデルデータ(.pmd, .pmx)およびモーションデータ(.vmd)インポータです。
